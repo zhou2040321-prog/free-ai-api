@@ -44,6 +44,8 @@ gpt6.2-sol
 
 以上是站内的模型调用名称，不代表官方模型名称或已验证的上游身份，实际可用情况以站内为准。
 
+模型检测记录：[GPT 6.2 Sol / GPT 6.1 Sol 检测结果](docs/model-tests.md)。
+
 ## 怎么使用
 
 完整步骤：[Sub2API 使用教程（CC Switch / Cockpit Tools / Codex）](docs/quickstart.md)
