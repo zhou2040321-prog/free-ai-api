@@ -46,6 +46,8 @@ gpt6.2-sol
 
 ## 怎么使用
 
+完整步骤：[Sub2API 使用教程（CC Switch / Cockpit Tools / Codex）](docs/quickstart.md)
+
 1. 进 QQ 群领取邀请码。
 2. 打开 [apifuli.com](https://apifuli.com) 注册。
 3. 在「API 密钥」页面创建 Key。
