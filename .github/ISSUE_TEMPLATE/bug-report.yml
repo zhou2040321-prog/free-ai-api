@@ -1,0 +1,30 @@
+name: Bug 反馈
+description: 报告可复现的问题，请勿包含密钥或个人数据
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "请先移除 API Key、账号信息、私密对话和个人数据。公开 Issue 会被他人看到。"
+  - type: textarea
+    id: summary
+    attributes:
+      label: 问题摘要
+      description: 描述预期行为与实际结果，不要贴密钥或完整私密对话。
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: 环境与客户端版本
+  - type: textarea
+    id: redacted_logs
+    attributes:
+      label: 已脱敏的错误信息
+      description: 删除 API Key、账户标识、私有提示词和其他个人信息。

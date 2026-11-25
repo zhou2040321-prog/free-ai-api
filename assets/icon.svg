@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Free AI API project icon</title>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#133a66"/><stop offset="1" stop-color="#4c2d7a"/></linearGradient><linearGradient id="fg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8bdbff"/><stop offset="1" stop-color="#d4b9ff"/></linearGradient></defs>
+  <rect width="128" height="128" rx="28" fill="url(#bg)"/>
+  <rect x="13" y="13" width="102" height="102" rx="20" fill="none" stroke="#bbceff" stroke-opacity=".25"/>
+  <path d="M44 42 25 64l19 22M84 42l19 22-19 22M73 37 55 91" fill="none" stroke="url(#fg)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

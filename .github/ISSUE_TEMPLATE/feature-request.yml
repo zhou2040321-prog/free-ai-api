@@ -1,0 +1,19 @@
+name: 功能建议
+description: 提交与公益开发者平台相关的功能建议
+title: "[功能建议] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: "请勿公开提交 API Key、账号密码、个人资料或私密对话。"
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 建议内容
+      description: 描述建议解决的问题及预期效果。
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: 现有替代方案

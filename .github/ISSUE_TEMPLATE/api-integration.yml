@@ -1,0 +1,24 @@
+name: API 接入问题
+description: 询问 API 接入或配置资料
+title: "[接入问题] "
+labels: ["question", "api-integration"]
+body:
+  - type: markdown
+    attributes:
+      value: "请勿提交 API Key、账号密码、私人对话或未经脱敏的请求/响应内容。公开 Issue 对所有人可见。"
+  - type: textarea
+    id: question
+    attributes:
+      label: 接入问题
+      description: 说明你参考的公开文档和遇到的问题；若文档尚未公开请注明。
+    validations:
+      required: true
+  - type: input
+    id: client
+    attributes:
+      label: 客户端及版本
+  - type: textarea
+    id: redacted_error
+    attributes:
+      label: 已脱敏错误信息
+      description: 删除密钥、账号标识、私密提示词和个人数据。
