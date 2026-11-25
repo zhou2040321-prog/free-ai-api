@@ -46,6 +46,8 @@ These are the site's API model IDs, not verified official model names or proof o
 
 ## Getting started
 
+[Sub2API setup guide (Chinese)](docs/quickstart.md), covering CC Switch, Cockpit Tools and Codex.
+
 1. Join the QQ group and get an invitation code.
 2. Sign up at [apifuli.com](https://apifuli.com).
 3. Create a key on the API Keys page.
