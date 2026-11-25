@@ -44,6 +44,8 @@ gpt6.2-sol
 
 These are the site's API model IDs, not verified official model names or proof of upstream identity. Check the site for availability.
 
+[Model test results](docs/model-tests.md) (Chinese): GPT 6.2 Sol and GPT 6.1 Sol.
+
 ## Getting started
 
 [Sub2API setup guide (Chinese)](docs/quickstart.md), covering CC Switch, Cockpit Tools and Codex.
