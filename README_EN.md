@@ -30,6 +30,23 @@ Invitation codes are required to reduce automated registrations and resource abu
 
 Free invitation codes are distributed daily in the group, which also provides technical discussion and feedback. No payment, GitHub Star, or repost is required.
 
+## 🤖 Currently supported models
+
+The site operator lists the following 10 model IDs:
+
+- `gpt-5.6-luna`
+- `gpt-5.6-sol`
+- `gpt-5.6-terra`
+- `gpt-6-astra`
+- `gpt-6-luna`
+- `gpt-6-sol`
+- `gpt-6.1-sol`
+- `gpt-6.2-astra`
+- `gpt-6.2-sol`
+- `gpt6.2-sol`
+
+These are API model identifiers used by this platform. Actual availability depends on the site's model list; these identifiers do not establish official model names or verified upstream identity.
+
 ## Quick start
 
 1. Join the QQ group and obtain a free invitation code.
