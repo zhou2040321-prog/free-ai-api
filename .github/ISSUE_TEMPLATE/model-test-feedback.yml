@@ -1,0 +1,70 @@
+name: 模型测试反馈
+description: 分享个人使用体验，帮助整理公开反馈
+title: "[测试反馈] "
+body:
+  - type: markdown
+    attributes:
+      value: "请勿提交 API Key、账号信息、私人提示词或对话原文、个人数据及未经脱敏的日志。以下是个人体验反馈，不是官方基准测试。"
+  - type: input
+    id: model
+    attributes:
+      label: 使用的模型
+      description: 请按平台界面显示填写；无法确认时写“未知”。
+    validations:
+      required: true
+  - type: textarea
+    id: scenario
+    attributes:
+      label: 使用场景
+      description: 用简短、非敏感的描述说明用途。
+    validations:
+      required: true
+  - type: dropdown
+    id: response_speed
+    attributes:
+      label: 响应速度
+      options:
+        - 很快
+        - 一般
+        - 较慢
+        - 不便判断
+    validations:
+      required: true
+  - type: dropdown
+    id: stability
+    attributes:
+      label: 稳定性
+      options:
+        - 稳定
+        - 偶有中断
+        - 多次失败
+        - 不便判断
+    validations:
+      required: true
+  - type: dropdown
+    id: errors
+    attributes:
+      label: 是否报错
+      options:
+        - 否
+        - 是
+        - 不确定
+    validations:
+      required: true
+  - type: textarea
+    id: error_summary
+    attributes:
+      label: 脱敏后的错误摘要（如有）
+      description: 不要贴请求/响应原文、密钥、账号信息或可识别个人的信息。
+  - type: dropdown
+    id: experience
+    attributes:
+      label: 整体体验
+      options:
+        - 很好
+        - 还可以
+        - 一般
+        - 不太理想
+        - 不便评价
+    validations:
+      required: true

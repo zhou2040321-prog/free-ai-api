@@ -55,6 +55,25 @@ These are the site's API model IDs, not verified official model names or proof o
 3. Create a key on the API Keys page.
 4. Open the key's usage instructions and configure your client with the connection details provided by the site.
 
+## Discussion and feedback
+
+- [GitHub Discussions](https://github.com/zhou2040321-prog/free-ai-api/discussions): ask usage questions, share integration notes, or discuss ideas.
+- [GitHub Issues](https://github.com/zhou2040321-prog/free-ai-api/issues): report reproducible problems or suggest improvements using the relevant template.
+
+Remove API keys, passwords, personal information, private conversations, and unredacted logs before posting publicly.
+
+## Model requests
+
+Use the [model request template](https://github.com/zhou2040321-prog/free-ai-api/issues/new?template=model-request.yml) to suggest a model and describe its use case, why it would help, and possible alternatives. Others can comment or react with 👍 to show interest. A request does not mean the model is available or will be added.
+
+## Test feedback
+
+Use the [test feedback template](https://github.com/zhou2040321-prog/free-ai-api/issues/new?template=model-test-feedback.yml) to share the model, use case, response speed, stability, and overall experience. Do not include sensitive content. Individual reports are not official benchmarks or availability guarantees.
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for updates to the project materials.
+
 ## Before you use it
 
 Please do not abuse the service, register accounts in bulk, or resell invitation codes.

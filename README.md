@@ -55,6 +55,25 @@ gpt6.2-sol
 3. 在「API 密钥」页面创建 Key。
 4. 点击「使用密钥」，按站内提供的接入信息配置客户端。
 
+## 交流与反馈
+
+- [GitHub Discussions](https://github.com/zhou2040321-prog/free-ai-api/discussions)：交流使用问题、分享接入经验或讨论建议。
+- [GitHub Issues](https://github.com/zhou2040321-prog/free-ai-api/issues)：提交可复现的问题或建议，请选择对应模板。
+
+公开发帖前请移除 API Key、密码、个人信息、私人对话和未脱敏日志。
+
+## 模型需求投票
+
+想讨论新增模型，可以[提交模型需求](https://github.com/zhou2040321-prog/free-ai-api/issues/new?template=model-request.yml)，填写模型名称、用途、需求原因和可能的替代选项。其他人可以在 Issue 下留言或用 👍 表达关注；提交不代表模型已上线或一定会加入。
+
+## 测试反馈
+
+欢迎使用[测试反馈模板](https://github.com/zhou2040321-prog/free-ai-api/issues/new?template=model-test-feedback.yml)分享使用模型、场景、响应速度、稳定性和体验。请勿附上敏感内容；个人反馈不等于官方基准测试或可用性承诺。
+
+## 更新日志
+
+项目资料变更记录见 [CHANGELOG.md](CHANGELOG.md)。
+
 ## 使用前请注意
 
 请正常使用，不要批量注册、恶意刷量或倒卖邀请码。
