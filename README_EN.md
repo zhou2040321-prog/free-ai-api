@@ -54,6 +54,8 @@ gpt6.2-sol
 
 These are the site's API model IDs, not verified official model names or proof of upstream identity. Check the site for availability.
 
+The site has also added **Google Gemini models**. Check the model list on the website for the exact API model IDs and current availability. More models will be added over time as resources allow.
+
 [GPT 6.2 Sol test report](docs/model-tests.md) (Chinese): 100% on this run.
 
 ## Getting started
