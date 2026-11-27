@@ -35,7 +35,7 @@ Registration requires an invitation code to help prevent bulk signups and abuse.
 
 **QQ group: 1131913173**
 
-Free codes are shared in the group every day. You can also ask for help there. No payment, GitHub Star, or repost is required.
+Free codes are shared in the group every day. You can also ask for help there.
 
 ## Supported models
 
