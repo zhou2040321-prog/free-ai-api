@@ -1,5 +1,13 @@
 # AI 福利站 | Free AI API
 
+## Service Restored (2026-11-27)
+
+On November 26, the site was hit by a large number of bot-driven sign-ups. To prevent resources from being abused and to protect normal users, we temporarily suspended the gateway service.
+
+The service was restored on November 27. You can visit the site again and use the API according to the instructions shown there.
+
+Sorry for the inconvenience. We will continue monitoring unusual sign-up activity and adjust protections as needed.
+
 [![AI Welfare API](assets/banner.svg)](https://apifuli.com)
 
 [![Website](assets/badge-website.svg)](https://apifuli.com) [![QQ group](assets/badge-qq.svg)](#free-invitation-codes) [![Free to use](assets/badge-free.svg)](#credits-and-usage)
