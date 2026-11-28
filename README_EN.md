@@ -25,7 +25,7 @@ I run this AI API gateway as a free resource for people who want to try AI codin
 - No daily usage cap under the stated rules, plus free credits for daily check-ins.
 - No top-up entry or payment required.
 
-**Why only 50 credits at signup?** This is not a paid trial or a prompt to top up later. The limit is there to discourage casual sign-ups, bulk registrations, and abuse, so limited free resources can go to people who actually need them. Users are not expected to pay when the credits run out.
+**Why are 50 credits provided at signup?** The initial 50 credits help discourage bulk sign-ups, bot registrations, and abuse, so limited free resources can go to people who genuinely need them. This is not a "free trial first, then pay" arrangement or a payment requirement. When the credits run out, you can contact the site operator through the QQ group (1131913173) to apply for more. Requests are handled according to the actual circumstances. The site has no top-up option and does not require users to pay.
 
 API calls deduct credits from your balance. Available credits, concurrency, and model availability depend on the site's current settings.
 
