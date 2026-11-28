@@ -8,7 +8,7 @@
 
 给受影响的用户带来不便，抱歉。我们会继续关注异常注册情况，并根据实际情况调整防护措施。
 
-[![AI 福利站](assets/banner-zh.jpg)](https://apifuli.com)
+[![AI 福利站](assets/banner-zh.svg)](https://apifuli.com)
 
 [![官网](assets/badge-website.svg)](https://apifuli.com) [![QQ群](assets/badge-qq.svg)](#免费邀请码领取) [![免费使用](assets/badge-free.svg)](#额度和使用规则)
 
