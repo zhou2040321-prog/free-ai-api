@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="APIFULI 免费 AI API 中文宣传横幅">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#061426"/><stop offset=".52" stop-color="#111a43"/><stop offset="1" stop-color="#25134c"/></linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#49e5ff"/><stop offset=".55" stop-color="#79a9ff"/><stop offset="1" stop-color="#c58aff"/></linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#08d9f5"/><stop offset="1" stop-color="#3988ff"/></linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8668ff"/><stop offset="1" stop-color="#d05cff"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5edfff" stop-opacity=".35"/><stop offset=".5" stop-color="#4567d9" stop-opacity=".18"/><stop offset="1" stop-color="#c16cff" stop-opacity=".35"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#83a9ff" stroke-opacity=".09" stroke-width="1"/></pattern>
+    <pattern id="dots" width="13" height="13" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.15" fill="#43dfff" fill-opacity=".65"/></pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1200" height="400" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="400" rx="20" fill="url(#grid)"/>
+  <ellipse cx="1070" cy="30" rx="230" ry="140" fill="#8a3cff" opacity=".14" filter="url(#soft)"/>
+  <ellipse cx="780" cy="340" rx="330" ry="90" fill="#1d70ff" opacity=".10" filter="url(#soft)"/>
+  <path d="M0 330 C160 285 235 370 390 330 S650 280 800 337 S1030 360 1200 300" fill="none" stroke="url(#title)" stroke-opacity=".28" stroke-width="2"/>
+  <path d="M0 330 C160 285 235 370 390 330 S650 280 800 337" fill="none" stroke="url(#dots)" stroke-width="34" opacity=".45"/>
+  <g font-family="'Microsoft YaHei','Noto Sans SC',Arial,sans-serif">
+    <g transform="translate(66 40)">
+      <path d="M0 7 17 0M0 7 17 14M34 0 17 7 34 14" fill="none" stroke="#45ddff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="52" y="13" fill="#f1f6ff" font-size="16" font-weight="700" letter-spacing="3">APIFULI.COM</text>
+    </g>
+    <text x="66" y="153" fill="#f7f9ff" font-size="72" font-weight="800" letter-spacing="1">免费</text>
+    <text x="250" y="153" fill="url(#title)" font-size="72" font-weight="800" letter-spacing="1">AI API</text>
+    <path d="M68 174H190" stroke="url(#title)" stroke-width="5" stroke-linecap="round" filter="url(#glow)"/>
+    <text x="68" y="221" fill="#f4f7ff" font-size="28" font-weight="600">免费 AI 接口，适合编程与测试</text>
+    <text x="69" y="260" fill="#b9c9e6" font-size="20">注册送 50 额度  ·  每日签到</text>
+    <g transform="translate(66 286)">
+      <rect width="226" height="52" rx="13" fill="#08c8e8" fill-opacity=".16" stroke="#27dfff" stroke-opacity=".8"/>
+      <path d="M22 26c0-10 13-12 20-2 7-10 20-8 20 2s-13 12-20 2c-7 10-20 8-20-2Z" fill="none" stroke="#45eaff" stroke-width="3"/>
+      <text x="78" y="33" fill="#f4fbff" font-size="19" font-weight="700">每日不限量</text>
+    </g>
+    <g transform="translate(307 286)">
+      <rect width="254" height="52" rx="13" fill="#397bff" fill-opacity=".16" stroke="#5a9cff" stroke-opacity=".85"/>
+      <path d="m24 18-10 8 10 8M43 18l10 8-10 8" fill="none" stroke="#70c9ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="70" y="33" fill="#f4fbff" font-size="19" font-weight="700">免费开发测试</text>
+    </g>
+    <g transform="translate(576 286)">
+      <rect width="218" height="52" rx="13" fill="#a34dff" fill-opacity=".17" stroke="#c17aff" stroke-opacity=".9"/>
+      <rect x="20" y="16" width="32" height="22" rx="4" fill="none" stroke="#d59aff" stroke-width="2.5"/>
+      <path d="m22 18 27 18" stroke="#d59aff" stroke-width="2.5"/>
+      <text x="67" y="33" fill="#fff7ff" font-size="19" font-weight="700">无需付费</text>
+    </g>
+    <text x="68" y="376" fill="#e3edff" font-size="17">apifuli.com</text>
+    <text x="1020" y="376" fill="#e3edff" font-size="17">QQ：1131913173</text>
+  </g>
+  <g transform="translate(900 38)">
+    <ellipse cx="135" cy="162" rx="172" ry="68" fill="none" stroke="url(#violet)" stroke-width="2" opacity=".8" transform="rotate(-20 135 162)"/>
+    <path d="M135 8 246 72 246 202 135 266 24 202 24 72Z" fill="url(#glass)" stroke="#7b9dff" stroke-opacity=".8" stroke-width="2"/>
+    <path d="M135 8 135 137 246 202M135 137 24 202M24 72 135 137 246 72" fill="none" stroke="#8bcfff" stroke-opacity=".55" stroke-width="1.7"/>
+    <path d="M135 8 135 137 135 266" stroke="#a2aaff" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="M135 137 195 103 195 173 135 207 75 173 75 103Z" fill="#0c1d46" stroke="url(#title)" stroke-width="2.5" filter="url(#glow)"/>
+    <path d="m105 129-16 14 16 14M165 129l16 14-16 14M145 122l-19 43" fill="none" stroke="#b9caff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#8cecff" filter="url(#glow)"><circle cx="135" cy="8" r="6"/><circle cx="24" cy="72" r="6"/><circle cx="246" cy="72" r="6"/><circle cx="24" cy="202" r="6"/><circle cx="246" cy="202" r="6"/></g>
+    <path d="M72 275 135 310 198 275" fill="none" stroke="url(#title)" stroke-width="4" filter="url(#glow)"/>
+    <path d="M48 296 135 340 222 296 135 252Z" fill="#18346d" fill-opacity=".8" stroke="#5abfff" stroke-width="2"/>
+    <path d="M48 296v17l87 44 87-44v-17" fill="#18275c" stroke="#7a80ff" stroke-width="2"/>
+    <path d="M70 313 135 345 200 313" fill="none" stroke="#d07aff" stroke-width="2" opacity=".9"/>
+  </g>
+</svg>
